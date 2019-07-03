@@ -1,9 +1,6 @@
 # Cookiecutter Data Science
 
-_A logical, reasonably standardized, but flexible project structure for doing and sharing data science work._
-
-
-#### [Project homepage](http://drivendata.github.io/cookiecutter-data-science/)
+_You can use this as the base of your new datascience projects at Jedlix. By using this template the most useful packages are set up for you, along with a nice structural starting point._
 
 
 ### Requirements to use the cookiecutter template:
@@ -26,7 +23,7 @@ $ conda install cookiecutter
 ### To start a new project, run:
 ------------
 
-    cookiecutter https://github.com/drivendata/cookiecutter-data-science
+    cookiecutter https://gitlab.com/jedlix/cookiecutter
 
 
 [![asciicast](https://asciinema.org/a/9bgl5qh17wlop4xyxu9n9wr02.png)](https://asciinema.org/a/9bgl5qh17wlop4xyxu9n9wr02)
@@ -85,7 +82,8 @@ The directory structure of your new project looks like this:
 
 ## Contributing
 
-We welcome contributions! [See the docs for guidelines](https://drivendata.github.io/cookiecutter-data-science/#contributing).
+Contributions are very welcome, and this project is still very much a work in progress. If there are things you thing are missing, please feel free to submit a pull request, of file a bug.
+However, please keep in mind that this template should be useful for every project, so please do not include very specific changes you'll only need in very specific cases.
 
 ### Installing development requirements
 ------------
